@@ -15,7 +15,7 @@ tags:
 - ## Quantization Strategy
   - AWQ / Group 128 / Asymmetric / BFP16 activations / UINT4 Weights
 - ## Quick Start
-  For quickstart, refer to [Ryzen AI documentation](https://ryzenai.docs.amd.com/en/latest/npu_oga.html)
+  For quickstart, refer to [Ryzen AI documentation](https://ryzenai.docs.amd.com/en/latest/hybrid_oga.html)
 
 ## Evaluation scores
   - The perplexity measurement is run on the wikitext-2-raw-v1 (raw data) dataset provided by Hugging Face. Perplexity score measured for prompt length 2k is 14.0496.
